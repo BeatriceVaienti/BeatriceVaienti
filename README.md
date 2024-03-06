@@ -2,7 +2,9 @@ Hi 👋 I'm Beatrice Vaienti
 =================================  
 PhD Student @ EPFL - DHLAB 
 --------------------------  
-I am an architect and building engineer, with way too many hobbies. I am currently doing a PhD in Digital Humanities at the DHLAB (EPFL). In my research I am studying the urban evolution of Jerusalem between 1840 and 1940 through the lenses of western cartography.  * 🌍  I'm based in Lausanne, Switzerland
+I am an architect and building engineer, with way too many hobbies. I am currently doing a PhD in Digital Humanities at the DHLAB (EPFL). In my research I am studying the urban evolution of Jerusalem between 1840 and 1940 through the lenses of western cartography.  
+* 
+🌍 I'm based in Lausanne, Switzerland
 
 ### Skills  
 
