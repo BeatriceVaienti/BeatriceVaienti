@@ -1,4 +1,4 @@
-Hi 👋 My name is Beatrice Vaienti 
+Hi 👋 I'm Beatrice Vaienti 
 =================================  
 PhD Student @ EPFL - DHLAB 
 --------------------------  
